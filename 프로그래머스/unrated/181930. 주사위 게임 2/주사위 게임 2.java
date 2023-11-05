@@ -1,16 +1,3 @@
-// class Solution {
-//     public int solution(int a, int b, int c) {
-//         int answer = 0;
-//         dice_1 = int a;
-//         dice_2 = int b;
-//         dice_3 = int c;
-//         for (if int a != int b && int b != int c)
-//             int(a+b+c);
-//         }else if int a != int b
-        
-//         return answer;
-//     }
-// }
 
 
 class Solution {
